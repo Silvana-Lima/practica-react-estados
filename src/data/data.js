@@ -1,0 +1,1 @@
+export const itemsList = ["javascript", "java", "react", "HTML", "css", "github", "git" ]
